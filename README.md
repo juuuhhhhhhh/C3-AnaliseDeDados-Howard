@@ -2,6 +2,10 @@
 
 **Avaliação C3 | FAESA Centro Universitário | Prof. M.Sc. Howard Roatti**
 
+**INTEGRANTES:**
+- Juliano De Andrade Dantas Rodrigues
+- Júlia Soares Gomes Paiva
+
 ---
 
 ## 📌 Objetivo
