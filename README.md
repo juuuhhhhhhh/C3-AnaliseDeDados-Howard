@@ -103,7 +103,7 @@ Métricas: `Acurácia`, `AUC-ROC`, `Precision`, `Recall`, `F1-Score`
 | Clusterização | KMeans (k=4) | 4 perfis de imóveis identificados |
 | Redução de Dim. | PCA + t-SNE | 4 componentes para 90% da variância |
 | Análise de Assoc. | Apriori | Regras: Qual_Alta + Area_Grande → Preço_Alto |
-| Detecção de Outlier | LOF | ~5% de outliers detectados |
+| Detecção de Outlier | LOF | 5% de outliers detectados |
 
 ---
 
