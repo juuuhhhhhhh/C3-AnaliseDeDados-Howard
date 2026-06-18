@@ -3,6 +3,7 @@
 **Avaliação C3 | FAESA Centro Universitário | Prof. M.Sc. Howard Roatti**
 
 **INTEGRANTES:**
+- Eduardo Rodrigues Rangel Malaquias
 - Juliano De Andrade Dantas Rodrigues
 - Júlia Soares Gomes Paiva
 
