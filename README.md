@@ -7,7 +7,6 @@
 - Juliano De Andrade Dantas Rodrigues
 - Júlia Soares Gomes Paiva
 
----
 
 ## 📌 Objetivo
 
